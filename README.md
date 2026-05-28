@@ -1,3 +1,3 @@
-# Chez Nounou Alison — version fidèle au visuel Canva
+# Chez Nounou Alison — version fidèle Canva
 
-Site Vite/React prêt pour Vercel.
+Cette version affiche la page d’accueil Canva comme base visuelle principale.
