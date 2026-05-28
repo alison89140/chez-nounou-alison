@@ -1,3 +1,3 @@
-# Chez Nounou Alison — version fidèle Canva
+# Chez Nounou Alison — version exacte Canva
 
-Cette version affiche la page d’accueil Canva comme base visuelle principale.
+Cette version affiche directement le visuel validé de la page d'accueil.
